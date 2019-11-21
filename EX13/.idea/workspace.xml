@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fd37541-4ed3-4510-8730-fd2fe2a70745" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/EX13_2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX13_2/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2_1/src/CCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX2_5/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4_1/.idea/EX4_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX4_1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX5/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX5/src/EX5_2/EX5_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX5/src/EX5_2/RailwayStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX5/src/EX5_3/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX5/src/EX5_3/CCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX5/src/EX5_3/EX5_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX5_2/src/EX5_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX5_2/src/Runner2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX6/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX6/src/EX6_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX6/src/EX6_1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX6/src/EX6_1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX6/src/EX6_1/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX6/src/EX6_2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX6/src/EX6_2/PracticeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX6/src/EX6_3/PracticeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX7/src/EX7_1/FileViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX7/src/EX7_2/FileRWTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX7/src/EX7_3/FileTranslate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX7/src/EX7_4/ObjectStreamRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EX7/src/EX7_4/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiThreading0_0/src/MultiThreading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeInClass/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeInClass/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeInClass/src/TestAni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeInClass/src/com/company/EX1.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeInClass/src/com/company/EX1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCalculator/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCalculator/src/Calculaotr_1.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCalculator/src/Calculaotr_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCalculator/src/Test.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCalculator/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCalculator/src/Test1.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCalculator/src/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX2_8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EX2_8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX3_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EX3_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX3_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EX3_3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX3_3/out/production/3_3/META-INF/3_3.kotlin_module" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/EX13_1/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/EX13_2/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/EX13_2/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/EX13_1/Main.java" />
+        <option value="$PROJECT_DIR$/src/EX13_2/Client.java" />
+        <option value="$PROJECT_DIR$/src/EX13_2/Server.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="97" />
+    <option name="y" value="37" />
+    <option name="width" value="1343" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EX13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EX13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EX13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EX13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EX13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EX13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="EX13_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EX13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EX13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="EX13_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="EX13_2.Client" />
+      <module name="EX13" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EX13_2.Server" />
+      <module name="EX13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EX13_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fd37541-4ed3-4510-8730-fd2fe2a70745" name="Default Changelist" comment="" />
+      <created>1574302840258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574302840258</updated>
+      <workItem from="1574302843599" duration="446000" />
+      <workItem from="1574303463255" duration="4262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4708000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="97" y="37" width="1343" height="784" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2720984" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29446936" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329429" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329429" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329429" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329429" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329429" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/EX13_1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EX13_2/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EX13_2/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
