@@ -10,7 +10,7 @@ public class WorkShop implements Runnable{
 //    Map<String,Integer> map = new HashMap<String, Integer>();
 //    LinkedList<String> name = new LinkedList<String>();
 //    LinkedList<Integer> number =new LinkedList<Integer>();
-    int[] intarr = new int[4];
+//    int[] intarr = new int[4];
     int posi=0;
 
     public WorkShop(int part){
@@ -18,27 +18,30 @@ public class WorkShop implements Runnable{
 
     }
 
-    public synchronized void sell(){
+    public synchronized boolean sell(){
         if(part>0){
 
-            String CurrenName = Thread.currentThread().getName();
-            posi= Integer.valueOf(CurrenName)-1;
-            intarr[posi]++;
+//            String CurrenName = Thread.currentThread().getName();
+
+//            posi= Integer.valueOf(CurrenName)-1;
+//            intarr[posi]++;
+            System.out.println(Thread.currentThread().getName()+" "+part);
             part--;
-
-        }
-
-
-    }
-    public void run() {
-        while(part>0){
-            sell();
             try {
                 Thread.sleep(0);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
+            return true;
         }
+    return false;
+    }
+    public void run() {
+        int n=0;
+        while(part>0){
+            if(sell())n++;
 
+        }
+    System.out.println(Thread.currentThread().getName()+" "+n);
     }
 }

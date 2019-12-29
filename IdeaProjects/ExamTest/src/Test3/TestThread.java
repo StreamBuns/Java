@@ -36,17 +36,17 @@ public class TestThread {
     t3.start();
     t4.start();
 
-    while(true){
-    if(!t1.isAlive()&&t2.isAlive()&&t3.isAlive()&&t4.isAlive()){
-//System.out.println("一号车间"+ws.number.get(ws.name.indexOf("一号车间")));
-//System.out.println("二号车间"+ws.number.get(ws.name.indexOf("二号车间")));
-//System.out.println("三号车间"+ws.number.get(ws.name.indexOf("三号车间")));
-//System.out.println("四号车间"+ws.number.get(ws.name.indexOf("四号车间")));
- System.out.println("一号车间"+ws.intarr[0]);
-System.out.println("二号车间"+ws.intarr[1]);
-System.out.println("三号车间"+ws.intarr[2]);
-System.out.println("四号车间"+ws.intarr[3]);
-     break;}}
+//    while(true){
+//    if(!t1.isAlive()&&t2.isAlive()&&t3.isAlive()&&t4.isAlive()){
+////System.out.println("一号车间"+ws.number.get(ws.name.indexOf("一号车间")));
+////System.out.println("二号车间"+ws.number.get(ws.name.indexOf("二号车间")));
+////System.out.println("三号车间"+ws.number.get(ws.name.indexOf("三号车间")));
+////System.out.println("四号车间"+ws.number.get(ws.name.indexOf("四号车间")));
+// System.out.println("一号车间"+ws.intarr[0]);
+//System.out.println("二号车间"+ws.intarr[1]);
+//System.out.println("三号车间"+ws.intarr[2]);
+//System.out.println("四号车间"+ws.intarr[3]);
+//     break;}}
 //
 //
 //    System.out.println("一号车间"+"一号车间"+"一号车间"+"一号车间");
