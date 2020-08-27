@@ -56,6 +56,7 @@ public class Map implements MapFile{
         sq tmp = q.get(index);
         map[tmp.x][tmp.y] = 3;
         if ( 0 == tmp.x && 0 == tmp.y )
+        
         {
             return ;
         }
