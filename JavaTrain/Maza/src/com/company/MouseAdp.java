@@ -7,12 +7,13 @@ import java.awt.event.MouseListener;
 
 public class MouseAdp implements MouseListener {
     Label jLabel;
+
     @Override
     public void mouseClicked(MouseEvent e) {
-       if( Color.ORANGE==jLabel.getBackground()){
+        if (Color.ORANGE == jLabel.getBackground()) {
 //           JLabel
-           jLabel.setBackground(Color.white);
-       }else jLabel.setBackground(Color.ORANGE);
+            jLabel.setBackground(Color.white);
+        } else jLabel.setBackground(Color.ORANGE);
     }
 
     @Override
@@ -34,7 +35,8 @@ public class MouseAdp implements MouseListener {
     public void mouseExited(MouseEvent e) {
 
     }
-    public void SetLabel(Label Label){
-        this.jLabel=Label;
+
+    public void SetLabel(Label Label) {
+        this.jLabel = Label;
     }
 }
